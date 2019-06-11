@@ -17,6 +17,7 @@ Data science is broadly defined as the process of extracting knowledge from data
 This, however, comes at a cost. Analyzing data is a much more involved process than just collecting information and drawing correlations from it. It is important to understand that data itself won't tell us answers if we do not understand the underlying processes that generate it.
 
 <img src="./media/primer03.png" width="100%">
+(http://www.davidlazer.com/article/parable-google-flu-traps-big-data-analysis)
 
 
 <hr>
