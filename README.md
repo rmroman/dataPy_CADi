@@ -1,4 +1,6 @@
-# dataPy CADi
+# dataPy CADi.
+## Roberto Martínez Román
+
 
 This repository contains the materials for the **Data acquisition, wrangling and exploratory analysis in Python**, three days intensive [CADi](http://sitios.itesm.mx/va/capacitacion/1_2.html) (["Cursos de Actualización en las Disciplinas"](http://sitios.itesm.mx/va/capacitacion/1_2.html)) for faculty members at ["Tecnológico de Monterrey"](https://tec.mx/es) Institute.
 
@@ -18,7 +20,7 @@ For other data-analysis related topics please take a look at the [dataViz_CADi](
 
 <img src="./md/media/flow.jpg" width="100%" height=7.5px>
 
-## Contents
+# Contents
 
 This workshop was created with flexibility in mind. As such, modules are fairly independent and can be followed in a different order than the one suggested here. For a topic-oriented breakdown of the contents, please have a look at the [sitemap](./md/sitemap.md).
 
