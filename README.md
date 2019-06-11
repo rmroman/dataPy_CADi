@@ -26,7 +26,7 @@ This workshop was created with flexibility in mind. As such, modules are fairly 
 
 
 
-### Day 01 (8h)
+### Day 01 (8h). TERMINADO
 
 1. [Introduction](./md/introduction.md): Objectives, scope, requirements and expectations.
 1. [Python 101](./md/python.md): Introduction to the programming language: [description](./md/python.md), [core types](./md/python101.md), [collections (data structures)](./md/python101b.md) and [functions](./md/python101c.md).
@@ -35,7 +35,7 @@ This workshop was created with flexibility in mind. As such, modules are fairly 
 1. [Git](./md/github.md): Version control using [github](https://github.com/) for code development, sharing and collaboration.
 
 
-### Day 02 (8h)
+### Day 02 (8h) EN CURSO
 
 
 1. [Data Primer](./md/dataPrimer.md): Data science and how does data wrangling fit into it?
