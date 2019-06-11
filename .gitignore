@@ -113,3 +113,11 @@ celerybeat-schedule
 .mypy_cache/
 scripts/cache/7a10ef7f51a32868ea1208e6d6162cd1.json
 scripts/cache/545f450373f228876d2335b3d0b43281.json
+
+# DATA
+/dataPyPersonal/data/
+/scripts/data/
+/scripts/cache/
+/scripts/images/
+/scripts/twitterCredentials.py
+/scripts/dropboxCredentials.py

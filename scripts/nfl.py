@@ -25,10 +25,10 @@ import numpy as np
 import pandas as pd
 import matplotlib.colors as colors
 import matplotlib.pyplot as plt
-%matplotlib inline
+#%matplotlib inline
 
 # Load the dataset
-data = pd.read_csv("../data/extracted/NFL/NFL.csv")
+data = pd.read_csv("data/extracted/NFL/NFL.csv")
 data.head()
 list(data.columns)
 
