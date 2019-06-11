@@ -57,3 +57,5 @@ sns.barplot(
     errcolor=".2", edgecolor=".2"
 )
 plt.savefig('./images/zoo.png', dpi=500)
+
+
